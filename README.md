@@ -29,6 +29,17 @@ Baris 89–90: tampilkan pesan jika input awal bukan 1–4.
 
 ### Alur Program  
 <img width="1392" height="174" alt="Screenshot 2025-09-14 203952" src="https://github.com/user-attachments/assets/0a115cbd-390a-494b-b346-9f2a0cc7545b" />           
-Menampilkan pilihan menu ke user. Selalu ditampilkan di awal program.
+Menampilkan pilihan menu ke user. Selalu ditampilkan di awal program. Menunggu input dari user. User harus ketik 1, 2, 3, atau 4.  
+                                                                           
+- **Pilihan 1: Tambah hutang**
+<img width="1459" height="94" alt="image" src="https://github.com/user-attachments/assets/98f819ef-18c1-4c68-b192-59897b2ee12a" />
+Prompt untuk mengetik nama orang yang berutang.
 
+<img width="1461" height="97" alt="image" src="https://github.com/user-attachments/assets/03a797c7-5c97-4375-9653-534780a7039b" />
+Prompt untuk mengetik jumlah hutang.
 
+<img width="1434" height="125" alt="image" src="https://github.com/user-attachments/assets/5852e81c-51b8-46e9-bd8c-79cb291b3319" />
+Menampilkan data baru yang baru ditambahkan (ID ditetapkan 4 di kode ini).
+
+                
+  
