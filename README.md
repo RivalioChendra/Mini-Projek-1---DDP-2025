@@ -52,7 +52,7 @@ Jika seperti ini, berarti data berhasil diubah.
 
 **Kemungkinan keluaran setelah input ID**
   <img width="1390" height="175" alt="image" src="https://github.com/user-attachments/assets/eaab7ae3-330e-49ad-94ee-4dd0420914a0" />
-Muncul jika user memasukkan ID 1, 2, atau 3 dan proses penggantian nama/jumlah sukses.
+Muncul jika user memasukkan angka selain 1, 2, atau 3 (ID tidak ada di kode).
 <br><br>
 <img width="1387" height="179" alt="image" src="https://github.com/user-attachments/assets/18ea2d08-2e98-44c3-96ef-91c06fd2a48d" />
 Muncul jika user mengetik sesuatu yang bukan angka (contoh: abc), karena program mencoba mengubah input ke integer dan gagal.
